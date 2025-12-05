@@ -6,6 +6,9 @@ const home = () => {
   return (
     <div>
     <Hero/>
+    <div className='p-4'>
+some content
+    </div>
     <Footer/>
     </div>
   )
